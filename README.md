@@ -5,7 +5,7 @@ LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be suc
 Creater & Maintainer
 Qi Lyu
 
-#FEATURES
+FEATURES
   - original Long short-term Memory
   - all connect peephole
   - support optimization methods like LBFGS and CG
